@@ -7,7 +7,7 @@ function App() {
     getDataModal();
   });
 
-  return <div className="App"></div>;
+  return <div className="App"> Фронтэнд</div>;
 }
 
 export default App;
